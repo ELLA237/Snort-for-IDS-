@@ -5,7 +5,7 @@ Custom rules and configurations have been incorporated to tailor Snort's capabil
 
 Features
 
-    Snort3 Configuration: Customized Snort3 setup for traffic analysis and rule management.
-    Network Attack Simulations: Simulating at least 3 basic network attacks to assess Snort's performance.
-    Logs and Visualizations: Analyze Snort logs and visualize results to better understand Snort’s responses to various network scenarios.
-    Rule Customization: Pulledpork
+- Snort3 Configuration: Customized Snort3 setup for traffic analysis and rule management.
+- Network Attack Simulations: Simulating at least 3 basic network attacks to assess Snort's performance.
+- Logs and Visualizations: Analyze Snort logs and visualize results to better understand Snort’s responses to various network scenarios.
+- Rule Customization: Pulledpork
